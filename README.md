@@ -16,13 +16,8 @@ Using Power BI, I delved into the last 3 years' data to uncover key insights req
 
 𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗟𝗶𝗻𝗸 - [https://acesse.one/PCEXp](https://www.linkedin.com/posts/nehasharma2103_datadrivendecisions-cricketanalytics-sportsinsights-activity-7190698502945980416-MM6w?utm_source=share&utm_medium=member_desktop)
 
-# Team Analysis
+# Overall Project
 
-![Screenshot (4631)](https://github.com/Inderpanda/Sports_Basics--IPL_Analysis/assets/138003751/fdee597a-bcbd-4bf2-af3f-e3bb4f7d5557)
-
-# Best Playing 11
-
-![Screenshot (4632)](https://github.com/Inderpanda/Sports_Basics--IPL_Analysis/assets/138003751/74d54407-6a77-4e15-b3d7-3f5fc380e971)
 
 
 
