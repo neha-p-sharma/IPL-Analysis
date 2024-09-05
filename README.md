@@ -12,11 +12,12 @@ This magazine aims to provide interesting insights and facts for fans, analysts 
 
 Using Power BI, I delved into the last 3 years' data to uncover key insights requested for both primary and secondary analysis.
 
-𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - [https://acesse.dev/qoEs0](https://app.powerbi.com/view?r=eyJrIjoiNmYxMWQ4YzAtMTcwOC00YzI5LWE1OWEtYmEwZjZjMWYzZDM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 𝗟𝗶𝗻𝗸 - (https://app.powerbi.com/view?r=eyJrIjoiNmYxMWQ4YzAtMTcwOC00YzI5LWE1OWEtYmEwZjZjMWYzZDM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗟𝗶𝗻𝗸 - [https://acesse.one/PCEXp](https://www.linkedin.com/posts/nehasharma2103_datadrivendecisions-cricketanalytics-sportsinsights-activity-7190698502945980416-MM6w?utm_source=share&utm_medium=member_desktop)
+𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻 𝗟𝗶𝗻𝗸 - (https://www.linkedin.com/posts/nehasharma2103_datadrivendecisions-cricketanalytics-sportsinsights-activity-7190698502945980416-MM6w?utm_source=share&utm_medium=member_desktop)
 
-# Overall Project
+# Overall Report
+![Overall Report.gif](ipl.gif)
 
 
 
